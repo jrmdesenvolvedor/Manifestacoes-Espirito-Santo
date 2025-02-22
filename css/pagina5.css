@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+body {
+    font-family: 'Poppins';
+}
+
+p {
+    font-family: 'Poppins';
+    text-indent: 20px;
+    font-size: 14pt;
+    text-align: justify;
+}
+
+h4:hover {
+    background-color: aquamarine;
+}
